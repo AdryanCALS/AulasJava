@@ -37,7 +37,7 @@ public class Exercicio05 {
 		}else if(contador ==5) {
 			System.out.println("Assassino");
 		}else {
-			System.out.println("Inocentre");
+			System.out.println("Inocente");
 		}
 		
 		input.close();
